@@ -1,0 +1,6 @@
+React + react-dom => Used for working on Wap Applications.
+React + react-native => Used for working on Mobile Applications.
+
+npm -> node package manager
+npx -> node package executor 
+create-react-app -> A utility i.e a softwer
