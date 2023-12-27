@@ -1,5 +1,5 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
+import React from 'react';  // "React -> Core Library of React"
+import ReactDOM from 'react-dom/client'; // "ReactDOM -> Implementation of React for Web Application. "
 
 import App from './App';
 
