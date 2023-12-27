@@ -1,9 +1,12 @@
-
+import Chai from "./chai"
 
 function App() {
 
-  return (
-    <h1>Chai or React with Vite | Nitish Kumar</h1>
+  return ( // jsx return only single element.
+    <>  
+    <h1>Chai or React with Vite | Nitish Kumar</h1> 
+    <Chai />
+    </>
   )
 }
 
